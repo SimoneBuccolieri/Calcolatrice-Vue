@@ -1,1 +1,32 @@
-sb-calc.netlify.app
+# 🧮 Vue.js Calculator
+
+Una **calcolatrice interattiva** sviluppata con **Vue.js** e **Tailwind CSS**, ottimizzata per un'esperienza utente fluida e responsiva. 🚀  
+
+---
+
+## 🎥 Demo Online
+🔗 **[Prova la Calcolatrice](https://tuo-dominio.com)** *(Se disponibile, sostituisci con il link reale.)*
+
+---
+
+## 📦 Installazione e Configurazione
+
+### **1️⃣ Clonare il Repository**
+```sh
+git clone https://github.com/simonebuccolieri/Calcolatrice-Vue.git
+cd vue-calculator
+```
+### **2️⃣ Installare le Dipendenze**
+```sh
+npm install
+```
+### **3️⃣ Avviare il Server di Sviluppo**
+```sh
+npm run dev
+```
+## 🛠️ Tecnologie Utilizzate
+- **Vue.js 3** 🖼️ - Framework JavaScript progressivo per un'interfaccia dinamica e reattiva  
+- **Vite** ⚡ - Build tool ultrarapido per lo sviluppo e la produzione  
+- **Tailwind CSS** 🎨 - Framework CSS utility-first per un design moderno e responsive  
+- **JavaScript (ES6+)** 🚀 - Programmazione moderna con supporto per funzioni avanzate  
+- **Nginx / Netlify / Vercel** 🌍 - Opzioni di hosting per distribuire l'app in produzione  
