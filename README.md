@@ -2,12 +2,6 @@
 
 Una **calcolatrice interattiva** sviluppata con **Vue.js** e **Tailwind CSS**, ottimizzata per un'esperienza utente fluida e responsiva. 🚀  
 
----
-
-## 🎥 Demo Online
-🔗 **[Prova la Calcolatrice](https://tuo-dominio.com)** *(Se disponibile, sostituisci con il link reale.)*
-
----
 
 ## 📦 Installazione e Configurazione
 
