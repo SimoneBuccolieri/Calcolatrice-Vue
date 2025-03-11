@@ -30,3 +30,7 @@ npm run dev
 - **Tailwind CSS** 🎨 - Framework CSS utility-first per un design moderno e responsive  
 - **JavaScript (ES6+)** 🚀 - Programmazione moderna con supporto per funzioni avanzate  
 - **Nginx / Netlify / Vercel** 🌍 - Opzioni di hosting per distribuire l'app in produzione  
+## 🚀 Funzionalità
+✅ **Operazioni matematiche di base** - Somma, sottrazione, moltiplicazione e divisione  
+✅ **Pulsante di reset (C)** - Cancella velocemente l'input  
+✅ **Ottimizzazione delle prestazioni** 🚀 - Caricamento rapido con Vite e Tailwind CSS  
