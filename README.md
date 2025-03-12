@@ -2,6 +2,10 @@
 
 Una **calcolatrice interattiva** sviluppata con **Vue.js** e **Tailwind CSS**, ottimizzata per un'esperienza utente fluida e responsiva. 🚀  
 
+## 🎥 Demo Online
+🔗 **[Guarda la Demo](https://calcolatrice.simonebuccolieri.com)**
+
+---
 
 ## 📦 Installazione e Configurazione
 
